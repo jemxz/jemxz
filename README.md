@@ -1,3 +1,4 @@
+![Jemail Omer Banner](assets\Blue_Liquid_Art_Design_Gallery_Intro_Video_AdobeExpress (1).gif)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jemail</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jemail Omer -->
@@ -12,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at jemxz.omer@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.jemail.dev) for more details about me. I'm open to feedback and suggestions!
 
-<img src="https://i.ibb.co/SQy4Bb3/Blue-Liquid-Art-Design-Gallery-Intro-Video-Adobe-Express-1.gif" alt="Blue-Liquid-Art-Design-Gallery-Intro-Video-Adobe-Express-1" border="0">
+<img src="./assets/Night-Coding.gif" alt="Blue-Liquid-Art-Design-Gallery-Intro-Video-Adobe-Express-1" border="0">
 
 ### 🛠 &nbsp;Tech Stack
 
