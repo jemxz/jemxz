@@ -1,4 +1,4 @@
-![Jemail Omer Banner](./assets/Untitled.webm)
+![Jemail Omer Banner](./assets/Untitled.gif)
 
 <h2><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hey there! I'm Jemail</h2>
 
