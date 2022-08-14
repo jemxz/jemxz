@@ -1,4 +1,5 @@
 <h1><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hey there! I'm Jemail Omer</h1>
+
 ![Jemail Omer Banner](./assets/Untitled.gif)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jemail Omer -->
