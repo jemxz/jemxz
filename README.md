@@ -1,4 +1,4 @@
-![Jemail Omer Banner](assets\Blue_Liquid_Art_Design_Gallery_Intro_Video_AdobeExpress.gif)
+![Jemail Omer Banner](./assets/Blue_Liquid_Art_Design_Gallery_Intro_Video_AdobeExpress.gif)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jemail</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jemail Omer -->
